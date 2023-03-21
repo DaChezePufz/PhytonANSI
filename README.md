@@ -13,5 +13,5 @@ would display: `Hello World!` in Blue text, with a Bright Yellow background. The
 This is a program that displays all 256 colour combinations.
 **DOES NOT DISPLAY IN IDLE, USE CMD/TERMINAL**
 
-![Grid Layout](https://github.com/DaChezePufz/PhytonANSI/tree/main/.images/gridLayout.png?raw=true)
-![Grid Layout](https://github.com/DaChezePufz/PhytonANSI/tree/main/.images/listLayout.png?raw=true)
+![Grid Layout](https://github.com/DaChezePufz/PhytonANSI/tree/main/.images/gridLayout.png)
+![Grid Layout](https://github.com/DaChezePufz/PhytonANSI/tree/main/.images/listLayout.png)
