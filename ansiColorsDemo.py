@@ -42,5 +42,20 @@ for bg in range(40, 55):
 
         print(f"\x1B[{fg};{bg}m This is a test. BG: {colors[bg]}, FG: {colors[fg]} \x1B[0m")
 
+print("\x1B[0m END")
+
+for bg in range(40, 55):
+    if bg > 47:
+        bg = bg + 53
+    
+    print(f"{bg}:  ", end = "")
+    
+    for fg in range(30, 45):
+        if fg > 37:
+            fg = fg + 53
+
+        print(f"\x1b[{fg};{bg}m {fg} ", end="")
+
+    print("\x1B[0m\n")
 
 print("\x1B[0m END")
