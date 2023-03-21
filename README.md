@@ -14,4 +14,4 @@ This is a program that displays all 256 colour combinations.
 **DOES NOT DISPLAY IN IDLE, USE CMD/TERMINAL**
 
 ![Grid Layout](https://github.com/DaChezePufz/PhytonANSI/tree/main/.images/gridLayout.png)
-![Grid Layout](https://github.com/DaChezePufz/PhytonANSI/tree/main/.images/listLayout.png)
+![List Layout](https://github.com/DaChezePufz/PhytonANSI/tree/main/.images/listLayout.png)
