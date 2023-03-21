@@ -11,3 +11,4 @@ would display: `Hello World!` in Blue text, with a Bright Yellow background. The
 
 ## ansiColorsDemo
 This is a program that displays all 256 colour combinations.
+**DOES NOT DISPLAY IN IDLE, USE CMD/TERMINAL**
